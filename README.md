@@ -31,6 +31,9 @@
 - [📊 Stock Fluctuations Alert](https://github.com/shoaib-khan-24/Stock-fluctuations-alert)  
   <sup>Receive timely notifications about stock market movements, built using robust APIs and real-time data analysis.</sup>
 
+- [ Twitter ISP Complaint Service](https://github.com/shoaib-khan-24/Twitter-complaint-service)
+  <sup>Register a comlaint to your ISP via twitter whenever you recieve your WiFi speed slower than the promised one.</sup>
+
 ---
 
 ### 🌐 Connect with Me
